@@ -1,2 +1,3 @@
-#Google Sheet Clone 
-#Tech Stack - Html, CSS, JavaScript
+# Google Sheet Clone 
+
+# Tech Stack - Html, CSS, JavaScript
